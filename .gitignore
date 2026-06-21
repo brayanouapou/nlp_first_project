@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+.env
+*.json
+# Si tu as des gros datasets ou modèles téléchargés localement :
+data/
+models/
