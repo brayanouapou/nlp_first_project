@@ -8,6 +8,7 @@ class TextCleaner:
     Elle est conçue pour préparer le texte pour une analyse NLP.
     """
 
+    @staticmethod
     def clean_text_V3(
         text: str, 
         preserve_compound_words: bool = False, 
